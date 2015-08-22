@@ -1,0 +1,246 @@
+html {
+    min-height: 100%;
+    margin-bottom: 1px;
+    overflow-y: scroll;
+}
+
+.tbLft TH, .tbLft TD{
+    text-align:left;
+}
+
+.tdh20 TD {
+    border-top: 0;
+    border-bottom: 0;
+    margin: 0;
+    padding: 0 5px;
+    padding: 1px 5px;
+    height: 20px;
+}
+
+.tdAlt_bl TD {
+    background-color: #EBF4F8;
+}
+
+.dataTbl_bl {
+    border-collapse: collapse;
+    border: 1px solid #999;
+    background-color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-align: right;
+}
+
+.dataTbl_bl TH {
+    font-weight: bold;
+    background-color: #0476B4;
+    color: #ffffff;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid #666;
+    white-space: nowrap;
+    padding: 0 5px;
+    height: 20px;
+}
+
+.dataTbl_bl TD {
+    padding: 5px;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    border-top: 0;
+    border-bottom: 0;
+    text-align: center;
+    color: #333;
+}
+.dataTbl_bl TD a {
+    color: #0476B4;
+    text-decoration: underline;
+}
+.tdAlt_bl TD {
+    background-color: #EBF4F8;
+}
+
+.tbLft TH, .tbLft TD{
+    text-align:left;
+}
+
+.dataTbl_gr {
+    border-collapse: collapse;
+    background-color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-align: right;
+}
+
+.dataTbl_gr TH {
+    font-weight: bold;
+    color: #ffffff;
+    text-align: left;
+    background-color: #888;
+    white-space: nowrap;
+    padding: 0 5px;
+    height: 20px;
+    border: 1px solid #666;
+}
+
+.dataTbl_gr TH a,.dataTbl_gr TH a:visited {
+    background-color: #999;
+    width: 100%;
+    padding: 3px;
+    text-decoration: none;
+    color: #000;
+}
+
+.dataTbl_gr TH a:hover {
+    background-color: #ddd;
+    text-decoration: underline;
+}
+
+.dataTbl_gr TD {
+    padding: 3px 8px;
+    border: 1px solid #ccc;
+    border-top: 0;
+    border-bottom: 0;
+    text-align: left;
+    color: #333;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.TDgrBgr TD {
+    padding: 3px;
+    border: 1px solid #999;
+    border-top: 0;
+    border-bottom: 0;
+    line-height: 20px;
+    background-color: #ccc;
+}
+
+#container
+{
+    margin: 0 auto;
+    width: 100%;
+    background: #fff;
+}
+
+#header
+{
+    background: #ccc;
+    padding: 20px;
+}
+
+#header h1 { margin: 0; }
+
+#navigation
+{
+    float: left;
+    width: 100%;
+    background: #333;
+}
+
+#navigation ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+#navigation ul li
+{
+    list-style-type: none;
+    display: inline;
+}
+
+#navigation li a
+{
+    display: block;
+    float: left;
+    padding: 5px 10px;
+    color: #fff;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+}
+
+#navigation li a:hover { background: #383; }
+
+#content-container1
+{
+    float: left;
+    width: 100%;
+    background: #fff url(/wp-content/uploads/layout-three-liquid-background1.gif) repeat-y 20% 0;
+}
+
+#content-container2
+{
+    float: left;
+    width: 100%;
+    background: url(/wp-content/uploads/layout-three-liquid-background2.gif) repeat-y 80% 0;
+}
+
+#section-navigation
+{
+    float: left;
+    width: 30%;
+    padding: 20px 0;
+    margin: 0 2%;
+    display: inline;
+}
+
+#section-navigation ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+#section-navigation ul li
+{
+    margin: 0 0 1em;
+    padding: 0;
+    list-style-type: none;
+}
+
+#content
+{
+    float: left;
+    width: 30%;
+    padding: 20px 0;
+    margin: 0 0 0 2%;
+}
+
+#contentright
+{
+    float: right;
+    width: 20%;
+    padding: 20px 0;
+    margin: 0 0 0 2%;
+}
+
+#content h2 { margin: 0; }
+
+#aside
+{
+    float: right;
+    width: 13%;
+    padding: 20px 0;
+    margin: 0 2% 0 0;
+    display: inline;
+}
+
+#aside h3 { margin: 0; }
+
+#footer
+{
+    clear: both;
+    background: #ccc;
+    text-align: right;
+    padding: 20px;
+    height: 1%;
+}
+
+.picked {
+    border: 3px solid blue;
+    background-color: coral;
+}
+
+.myPick {
+    border: 3px solid blue;
+    background-color: limegreen;
+}

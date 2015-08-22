@@ -1,0 +1,284 @@
+<!DOCTYPE HTML>
+<html data-ng-app="draftManagement">
+    <head>
+            <title> Draft Management with Angular JS</title>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    </head>
+    <body>
+        <div ng-controller="DraftController">
+            <br/>
+            <div id="header">
+                <h1>
+                    The Draft Master
+                </h1>
+                <div style="text-align: right">
+                    @wilsonraphale
+                </div>
+
+            </div>
+            <hr />
+            <div id="content-container">
+                <div id="section-navigation">
+                    <div>Search: <input ng-model="filter.name"></div>
+                    <h2>
+                        Overall List of players
+                    </h2>
+                    <table id="playerListTable" class="dataTbl_bl tbLft tdh20">
+                        <thead>
+                        <tr>
+                            <th class="listId" nowrap>
+                                Rank
+                            </th>
+                            <th class="listPhoneNo" nowrap>
+                                Player Name
+                            </th>
+                            <th class="listDesc" nowrap>
+                                Position
+                            </th>
+                            <th class="listDesc" nowrap>
+                                Team
+                            </th>
+                            <th class="listDesc" nowrap>
+                                Bye
+                            </th>
+                            <th class="listDesc" nowrap>
+                                Best
+                            </th>
+                            <th class="listDesc" nowrap>
+                                Worst
+                            </th>
+                            <th class="listPhoneNo" nowrap>
+                                Ave
+                            </th>
+                            <th class="listDesc" nowrap>
+                                ADP
+                            </th>
+                            <th class="listDesc" nowrap>
+                                Picked
+                            </th>
+                            <th class="listDesc" nowrap>
+                                My Pick
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr ng-repeat="player in players | filter:filter.name" ng-class-even="'tdAlt_bl'">
+                            <td>
+                                {{player.rank}}
+                            </td>
+                            <td>
+                                {{player.player}}
+                            </td>
+                            <td>
+                                {{player.position}}
+                            </td>
+                            <td>
+                                {{player.team}}
+                            </td>
+                            <td>
+                                {{player.bye}}
+                            </td>
+                            <td>
+                                {{player.best}}
+                            </td>
+                            <td>
+                                {{player.worst}}
+                            </td>
+                            <td>
+                                {{player.ave}}
+                            </td>
+                            <td>
+                                {{player.adp}}
+                            </td>
+<!--                            <td class="newcheckboxCell" ng-repeat="n in [1,2]">
+                                <input type="radio" ng-model="$parent.selected" ng-value="n" ng-change="selectPlayer(player, n)"/>
+                            </td>-->
+                            <td class="newcheckboxCell">
+                                <input type="checkbox" ng-model="player.selected" ng-true-value="YES" ng-false-value="NO" ng-click="selectPlayer(player, 1)">
+                            </td>
+                            <td>
+                                <input type="button" value="Pick" ng-model="player.selected" ng-true-value="YES" ng-false-value="NO" ng-click="selectPlayer(player, 2)">
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="aside">
+                    <h2>
+                        Wide Receivers
+                    </h2>
+                    <table id="wrTable" class="dataTbl_bl tbLft tdh20" >
+                        <thead>
+                        <tr>
+                            <th class="listId" nowrap>
+                                Rank
+                            </th>
+                            <th class="listPhoneNo" nowrap>
+                                Player Name
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr ng-repeat="player in players | matchPosition:wr" ng-class="isPlayerSelected(player)">
+                            <td>
+                                {{player.rank}}
+                            </td>
+                            <td >
+                                {{player.player}}
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="aside">
+                    <h2>
+                        Quarter Backs
+                    </h2>
+                    <table id="qbTable" class="dataTbl_bl tbLft tdh20" >
+                        <thead>
+                        <tr>
+                            <th class="listId" nowrap>
+                                Rank
+                            </th>
+                            <th class="listPhoneNo" nowrap>
+                                Player Name
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr ng-repeat="player in players | matchPosition:qb" ng-class="isPlayerSelected(player)">
+                            <td>
+                                {{player.rank}}
+                            </td>
+                            <td >
+                                {{player.player}}
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="aside">
+                    <h2>
+                        Tight Ends
+                    </h2>
+                    <table id="teTable" class="dataTbl_bl tbLft tdh20" >
+                        <thead>
+                        <tr>
+                            <th class="listId" nowrap>
+                                Rank
+                            </th>
+                            <th class="listPhoneNo" nowrap>
+                                Player Name
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr ng-repeat="player in players | matchPosition:te" ng-class="isPlayerSelected(player)">
+                            <td>
+                                {{player.rank}}
+                            </td>
+                            <td >
+                                {{player.player}}
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="aside">
+                    <h2>
+                        Running Backs
+                    </h2>
+                    <table id="rbTable" class="dataTbl_bl tbLft tdh20" >
+                        <thead>
+                        <tr>
+                            <th class="listId" nowrap>
+                                Rank
+                            </th>
+                            <th class="listPhoneNo" nowrap>
+                                Player Name
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr ng-repeat="player in players | matchPosition:rb" ng-class="isPlayerSelected(player)">
+                            <td>
+                                {{player.rank}}
+                            </td>
+                            <td >
+                                {{player.player}}
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="aside">
+                    <h2>
+                        Kickers
+                    </h2>
+                    <table id="kTable" class="dataTbl_bl tbLft tdh20" >
+                        <thead>
+                        <tr>
+                            <th class="listId" nowrap>
+                                Rank
+                            </th>
+                            <th class="listPhoneNo" nowrap>
+                                Player Name
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr ng-repeat="player in players | matchPosition:k" ng-class="isPlayerSelected(player)">
+                            <td>
+                                {{player.rank}}
+                            </td>
+                            <td >
+                                {{player.player}}
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="aside">
+                    <h2>
+                        Defence and Special Teams
+                    </h2>
+                    <table id="dstTable" class="dataTbl_bl tbLft tdh20" >
+                        <thead>
+                        <tr>
+                            <th class="listId" nowrap>
+                                Rank
+                            </th>
+                            <th class="listPhoneNo" nowrap>
+                                Player Name
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr ng-repeat="player in players | matchPosition:dst" ng-class="isPlayerSelected(player)">
+                            <td>
+                                {{player.rank}}
+                            </td>
+                            <td >
+                                {{player.player}}
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="footer">
+                    Copyright © Wilson Raphale 2013
+                </div>
+            </div>
+        </div>
+        <script>
+            document.write('<base href="' + document.location + '" />');
+        </script>
+        <script src="scripts/angular.min.js"> </script>
+        <script src="scripts/angular-resource.js"> </script>
+        <script src="scripts/draftmanagement/draftmanager.js"> </script>
+        <script src="scripts/draftmanagement/controller/controller.js"> </script>
+        <script src="scripts/draftmanagement/service/DraftManagementService.js"> </script>
+        <link rel="STYLESHEET" type="text/css" href="css/main.css">
+    </body>
+</html>

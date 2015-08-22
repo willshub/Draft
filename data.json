@@ -1,0 +1,2347 @@
+[
+    {
+        "rank": 1,
+        "name": "Jamaal Charles (KC/6)",
+        "position": "RB1",
+        "best": 1,
+        "worst": 5,
+        "average": 1.8,
+        "selected": "NO",
+        "adp": 3
+    },
+    {
+        "rank": 2,
+        "name": "LeSean McCoy (PHI/7)",
+        "position": "RB2",
+        "best": 1,
+        "worst": 5,
+        "average": 1.8,
+        "selected": "NO",
+        "adp": 1
+    },
+    {
+        "rank": 3,
+        "name": "Adrian Peterson (MIN/10)",
+        "position": "RB3",
+        "best": 1,
+        "worst": 6,
+        "average": 3.1,
+        "selected": "NO",
+        "adp": 2
+    },
+    {
+        "rank": 4,
+        "name": "Matt Forte (CHI/9)",
+        "position": "RB4",
+        "best": 1,
+        "worst": 11,
+        "average": 4.0,
+        "selected": "NO",
+        "adp": 4
+    },
+    {
+        "rank":5,
+        "name": "Eddie Lacy (GB/9)",
+        "position": "RB5",
+        "best": 3,
+        "worst": 11,
+        "average": 5.2,
+        "selected": "NO",
+        "adp": 6
+    },
+    {
+        "rank": 6,
+        "name": "Calvin Johnson (DET/9)",
+        "position": "WR1",
+        "best": 1,
+        "worst": 9,
+        "average": 6.1,
+        "selected": "NO",
+        "adp": 5
+    },
+    {
+        "rank": 7,
+        "name": "Jimmy Graham (NO/6)",
+        "position": "TE1",
+        "best": 6,
+        "worst": 25,
+        "average": 9.1,
+        "selected": "NO",
+        "adp": 8
+    },
+    {
+        "rank": 8,
+        "name": "Demaryius Thomas (DEN/4)",
+        "position": "WR2",
+        "best": 2,
+        "worst": 17,
+        "average": 9.2,
+        "selected": "NO",
+        "adp": 10
+    },
+    {
+        "rank": 9,
+        "name": "Dez Bryant (DAL/11)",
+        "position": "WR3",
+        "best": 6,
+        "worst": 18,
+        "average": 10.6,
+        "selected": "NO",
+        "adp": 11
+    },
+    {
+        "rank": 10,
+        "name": "Montee Ball (DEN/4)",
+        "position": "RB6",
+        "best": 5,
+        "worst": 28,
+        "average": 11.7,
+        "selected": "NO",
+        "adp": 16
+    },
+    {
+        "rank": 11,
+        "name": "Marshawn Lynch (SEA/4)",
+        "position": "RB7",
+        "best": 6,
+        "worst": 21,
+        "average": 11.9,
+        "selected": "NO",
+        "adp": 9
+    },
+    {
+        "rank": 12,
+        "name": "DeMarco Murray (DAL/11)",
+        "position": "RB8",
+        "best": 6,
+        "worst": 23,
+        "average": 12.4,
+        "selected": "NO",
+        "adp": 12
+    },
+    {
+        "rank": 13,
+        "name": "A.J. Green (CIN/4)",
+        "position": "WR4",
+        "best": 8,
+        "worst": 25,
+        "average": 14.4,
+        "selected": "NO",
+        "adp": 14
+    },
+    {
+        "rank": 14,
+        "name": "Julio Jones (ATL/9)",
+        "position": "WR5",
+        "best": 9,
+        "worst": 26,
+        "average": 15.2,
+        "selected": "NO",
+        "adp": 20
+    },
+    {
+        "rank": 15,
+        "name": "Brandon Marshall (CHI/9)",
+        "position": "WR6",
+        "best": 9,
+        "worst": 24,
+        "average": 15.5,
+        "selected": "NO",
+        "adp": 18
+    },
+    {
+        "rank": 16,
+        "name": "Giovani Bernard (CIN/4)",
+        "position": "RB9",
+        "best": 6,
+        "worst": 30,
+        "average": 17.0,
+        "selected": "NO",
+        "adp": 21
+    },
+    {
+        "rank": 17,
+        "name": "Le'Veon Bell (PIT/5)",
+        "position": "RB10",
+        "best": 11,
+        "worst": 46,
+        "average": 20.6,
+        "selected": "NO",
+        "adp": 19
+    },
+    {
+        "rank": 18,
+        "name": "Jordy Nelson (GB/9)",
+        "position": "WR7",
+        "best": 13,
+        "worst": 33,
+        "average": 20.7,
+        "selected": "NO",
+        "adp": 22
+    },
+    {
+        "rank": 19,
+        "name": "Arian Foster (HOU/10)",
+        "position": "RB11",
+        "best": 7,
+        "worst": 68,
+        "average": 21.5,
+        "selected": "NO",
+        "adp": 17
+    },
+    {
+        "rank": 20,
+        "name": "Alfred Morris (WAS/10)",
+        "position": "RB12",
+        "best": 10,
+        "worst": 44,
+        "average": 21.6,
+        "selected": "NO",
+        "adp": 24
+    },
+    {
+        "rank": 21,
+        "name": "Zac Stacy (STL/4)",
+        "position": "RB13",
+        "best": 9,
+        "worst": 44,
+        "average": 22.1,
+        "selected": "NO",
+        "adp": 27
+    },
+    {
+        "rank": 22,
+        "name": "Peyton Manning (DEN/4)",
+        "position": "QB1",
+        "best": 4,
+        "worst": 46,
+        "average": 22,
+        "selected": "NO",
+        "adp": 7
+    },
+    {
+        "rank": 23,
+        "name": "Alshon Jeffery (CHI/9)",
+        "position": "WR8",
+        "best": 13,
+        "worst": 45,
+        "average": 23.3,
+        "selected": "NO",
+        "adp": 26
+    },
+    {
+        "rank": 24,
+        "name": "Doug Martin (TB/7)",
+        "position": "RB14",
+        "best": 8,
+        "worst": 45,
+        "average": 24.1,
+        "selected": "NO",
+        "adp": 23
+    },
+    {
+        "rank": 25,
+        "name": "Antonio Brown (PIT/12)",
+        "position": "WR9",
+        "best": 13,
+        "worst": 45,
+        "average": 24.6,
+        "selected": "NO",
+        "adp": 25
+    },
+    {
+        "rank": 26,
+        "name": "Aaron Rodgers (GB/9)",
+        "position": "QB2",
+        "best": 12,
+        "worst": 51,
+        "average": 26.2,
+        "selected": "NO",
+        "adp": 15
+    },
+    {
+        "rank": 27,
+        "name": "Andre Ellington (ARI/4)",
+        "position": "RB15",
+        "best": 12,
+        "worst": 43,
+        "average": 26.3,
+        "selected": "NO",
+        "adp": 31
+    },
+    {
+        "rank": 28,
+        "name": "Drew Brees (NO/6)",
+        "position": "QB3",
+        "best": 13,
+        "worst": 46,
+        "average": 27.3,
+        "selected": "NO",
+        "adp": 13
+    },
+    {
+        "rank": 29,
+        "name": "Randall Cobb (GB/9)",
+        "position": "WR10",
+        "best": 21,
+        "worst": 39,
+        "average": 29.0,
+        "selected": "NO",
+        "adp": 28
+    },
+    {
+        "rank": 30,
+        "name": "Keenan Allen (SD/10)",
+        "position": "WR11",
+        "best": 20,
+        "worst": 48,
+        "average": 33.9,
+        "selected": "NO",
+        "adp": 35
+    },
+    {
+        "rank": 31,
+        "name": "Vincent Jackson (TB/7)",
+        "position": "WR12",
+        "best": 24,
+        "worst": 51,
+        "average": 34.4,
+        "selected": "NO",
+        "adp": 32
+    },
+    {
+        "rank": 32,
+        "name": "Toby Gerhart (JAC/11)",
+        "position": "RB16",
+        "best": 16,
+        "worst": 60,
+        "average": 36.0,
+        "selected": "NO",
+        "adp": 44
+    },
+    {
+        "rank": 33,
+        "name": "Rob Gronkowski (NE/10)",
+        "position": "TE2",
+        "best": 13,
+        "worst": 77,
+        "average": 37.4,
+        "selected": "NO",
+        "adp": 30
+    },
+    {
+        "rank": 34,
+        "name": "Julius Thomas (DEN/4)",
+        "position": "TE3",
+        "best": 18,
+        "worst": 53,
+        "average": 36.0,
+        "selected": "NO",
+        "adp": 44
+    },
+    {
+        "rank": 35,
+        "name": "Ryan Mathews (SD/10)",
+        "position": "RB17",
+        "best": 22,
+        "worst": 65,
+        "average": 38.5,
+        "selected": "NO",
+        "adp": 40
+    },
+    {
+        "rank": 36,
+        "name": "C.J. Spiller (BUF/9)",
+        "position": "RB18",
+        "best": 16,
+        "worst": 74,
+        "average": 38.5,
+        "selected": "NO",
+        "adp": 36
+    },
+
+    {
+        "rank": 37,
+        "name": "Andre Johnson (HOU/14)",
+        "position": "WR13",
+        "best": 25,
+        "worst": 82,
+        "average": 39.4,
+        "selected": "NO",
+        "adp": 37
+    },
+    {
+        "rank": 38,
+        "name": "Victor Cruz (NYG/8)",
+        "position": "WR14",
+        "best": 24,
+        "worst": 79,
+        "average": 38.7,
+        "selected": "NO",
+        "adp": 41
+    },
+
+    {
+        "rank": 39,
+        "name": "Pierre Garcon (WAS/10)",
+        "position": "WR15",
+        "best": 26,
+        "worst": 65,
+        "average": 39.4,
+        "selected": "NO",
+        "adp": 39
+    },
+    {
+        "rank": 40,
+        "name": "Roddy White (ATL/9)",
+        "position": "WR16",
+        "best": 24,
+        "worst": 92,
+        "average": 40.6,
+        "selected": "NO",
+        "adp": 45
+    },
+    {
+        "rank": 41,
+        "name": "Larry Fitzgerald (ARI/4)",
+        "position": "WR17",
+        "best": 30,
+        "worst": 71,
+        "average": 41.3,
+        "selected": "NO",
+        "adp": 33
+    },
+    {
+        "rank": 42,
+        "name": "Reggie Bush (DET/9)",
+        "position": "RB19",
+        "best": 19,
+        "worst": 75,
+        "average": 42.7,
+        "selected": "NO",
+        "adp": 34
+    },
+    {
+        "rank": 43,
+        "name": "Rashad Jennings (NYG/8)",
+        "position": "RB20",
+        "best": 15,
+        "worst": 105,
+        "average": 43.1,
+        "selected": "NO",
+        "adp": 49
+    },
+    {
+        "rank": 44,
+        "name": "Michael Crabtree (SFO/8)",
+        "position": "WR18",
+        "best": 24,
+        "worst": 76,
+        "average": 48.1,
+        "selected": "NO",
+        "adp": 46
+    },
+    {
+        "rank": 45,
+        "name": "Frank Gore (SF/9)",
+        "position": "RB21",
+        "best": 32,
+        "worst": 123,
+        "average": 48.4,
+        "selected": "NO",
+        "adp": 48
+    },
+    {
+        "rank": 46,
+        "name": "Joique Bell (DET/9)",
+        "position": "RB22",
+        "best": 24,
+        "worst": 81,
+        "average": 49.4,
+        "selected": "NO",
+        "adp": 70
+    },
+    {
+        "rank": 47,
+        "name": "Michael Floyd (ARI/4)",
+        "position": "WR19",
+        "best": 30,
+        "worst": 77,
+        "average": 50.0,
+        "selected": "NO",
+        "adp": 59
+    },
+    {
+        "rank": 48,
+        "name": "Matthew Stafford (DET/9)",
+        "position": "QB4",
+        "best": 26,
+        "worst": 86,
+        "average": 50.0,
+        "selected": "NO",
+        "adp": 59
+    },
+    {
+        "rank": 49,
+        "name": "Torrey Smith (BAL/11)",
+        "position": "WR20",
+        "best": 33,
+        "worst": 75,
+        "average": 53.4,
+        "selected": "NO",
+        "adp": 66
+    },
+    {
+        "rank": 50,
+        "name": "Cordarrelle Patterson (MIN/10)",
+        "position": "WR21",
+        "best": 27,
+        "worst": 84,
+        "average": 52.9,
+        "selected": "NO",
+        "adp": 51
+    },
+    {
+        "rank": 51,
+        "name": "Wes Welker (DEN/4)",
+        "position": "WR22",
+        "best": 33,
+        "worst": 98,
+        "average": 53.4,
+        "selected": "NO",
+        "adp": 42
+    },
+
+    {
+        "rank": 52,
+        "name": "Shane Vereen (NE/10)",
+        "position": "RB23",
+        "best": 28,
+        "worst": 80,
+        "average": 54.2,
+        "selected": "NO",
+        "adp": 67
+    },
+    {
+        "rank": 53,
+        "name": "Bishop Sankey (TEN/9)",
+        "position": "RB24",
+        "best": 26,
+        "worst": 112,
+        "average": 56.4,
+        "selected": "NO",
+        "adp": 53
+    },
+    {
+        "rank": 54,
+        "name": "DeSean Jackson (WAS/10)",
+        "position": "WR23",
+        "best": 38,
+        "worst": 101,
+        "average": 56.4,
+        "selected": "NO",
+        "adp": 50
+    },
+    {
+        "rank": 55,
+        "name": "Ben Tate (CLE/4)",
+        "position": "RB25",
+        "best": 24,
+        "worst": 102,
+        "average": 56.5,
+        "selected": "NO",
+        "adp": 63
+    },
+    {
+        "rank": 56,
+        "name": "Andrew Luck (IND/10)",
+        "position": "QB5",
+        "best": 32,
+        "worst": 80,
+        "average": 56.6,
+        "selected": "NO",
+        "adp": 43
+    },
+    {
+        "rank": 57,
+        "name": "Percy Harvin (SEA/4)",
+        "position": "WR24",
+        "best": 36,
+        "worst": 120,
+        "average": 58.0,
+        "selected": "NO",
+        "adp": 52
+    },
+    {
+        "rank": 58,
+        "name": "Jordan Cameron (CLE/4)",
+        "position": "TE4",
+        "best": 32,
+        "worst": 115,
+        "average": 61.7,
+        "selected": "NO",
+        "adp": 57
+    },
+    {
+        "rank": 59,
+        "name": "Chris Johnson (NYJ/11)",
+        "position": "RB26",
+        "best": 32,
+        "worst": 95,
+        "average": 63.1,
+        "selected": "NO",
+        "adp": 62
+    },
+    {
+        "rank": 60,
+        "name": "Mike Wallace (MIA/5)",
+        "position": "WR25",
+        "best": 41,
+        "worst": 97,
+        "average": 61.2,
+        "selected": "NO",
+        "adp": 77
+    },
+    {
+        "rank": 61,
+        "name": "Ray Rice (BAL/11)",
+        "position": "RB27",
+        "best": 21,
+        "worst": 113,
+        "average": 65.2,
+        "selected": "NO",
+        "adp": 68
+    },
+    {
+        "rank": 62,
+        "name": "Matt Ryan (ATL/9)",
+        "position": "QB6",
+        "best": 42,
+        "worst": 121,
+        "average": 65.6,
+        "selected": "NO",
+        "adp": 64
+    },
+    {
+        "rank": 63,
+        "name": "Ty Hilton (IND/10)",
+        "position": "WR26",
+        "best": 40,
+        "worst": 118,
+        "average": 67.8,
+        "selected": "NO",
+        "adp": 65
+    },
+    {
+        "rank": 64,
+        "name": "Lamar Miller (MIA/5)",
+        "position": "RB28",
+        "best": 34,
+        "worst": 116,
+        "average": 68.4,
+        "selected": "NO",
+        "adp": 92
+    },
+    {
+        "rank": 65,
+        "name": "Trent Richardson (IND/10)",
+        "position": "RB29",
+        "best": 35,
+        "worst": 119,
+        "average": 68.7,
+        "selected": "NO",
+        "adp": 70
+    },
+
+
+
+
+
+
+
+    {
+        "rank": 16,
+        "name": "Steven Jackson (ATL/6)",
+        "position": "RB11",
+        "best": 10,
+        "worst": 60,
+        "average": 18.5,
+        "selected": "NO",
+        "adp": 17
+    },
+
+    {
+        "rank": 19,
+        "name": "Maurice Jones-Drew (JAC/9)",
+        "position": "RB14",
+        "best": 9,
+        "worst": 70,
+        "average": 25.1,
+        "selected": "NO",
+        "adp": 25
+    },
+
+
+
+
+	{
+        "rank": 24,
+        "name": "Stevan Ridley (NE/10)",
+        "position": "RB15",
+        "best": 9,
+        "worst": 68,
+        "average": 21.1,
+        "selected": "NO",
+        "adp": 21
+    },
+
+
+
+
+
+
+
+
+
+	{
+        "rank": 34,
+        "name": "Cam Newton (CAR/4)",
+        "position": "QB4",
+        "best": 9,
+        "worst": 74,
+        "average": 34,
+        "selected": "NO",
+        "adp": 22
+    },	
+
+	{
+        "rank": 36,
+        "name": "Marques Colston (NO/7)",
+        "position": "WR13",
+        "best": 25,
+        "worst": 59,
+        "average": 38.5,
+        "selected": "NO",
+        "adp": 41
+    },
+    {
+        "rank": 37,
+        "name": "David Wilson (NYG/9)",
+        "position": "RB19",
+        "best": 15,
+        "worst": 67,
+        "average": 38.6,
+        "selected": "NO",
+        "adp": 36
+    },
+    {
+        "rank": 38,
+        "name": "Dwayne Bowe (KC/10)",
+        "position": "WR14",
+        "best": 27,
+        "worst": 75,
+        "average": 41.3,
+        "selected": "NO",
+        "adp": 44
+    },
+	{
+        "rank": 39,
+        "name": "Darren McFadden (OAK/7)",
+        "position": "RB20",
+        "best": 16,
+        "worst": 74,
+        "average": 41.3,
+        "selected": "NO",
+        "adp": 38
+    },
+    {
+        "rank": 40,
+        "name": "Reggie Wayne (IND/8)",
+        "position": "WR15",
+        "best": 28,
+        "worst": 78,
+        "average": 44.3,
+        "selected": "NO",
+        "adp": 47
+    },
+
+    {
+        "rank": 42,
+        "name": "Tom Brady (NE/10)",
+        "position": "QB5",
+        "best": 21,
+        "worst": 91,
+        "average": 45.1,
+        "selected": "NO",
+        "adp": 31
+    },
+    {
+        "rank": 43,
+        "name": "Danny Amendola (NE/10)",
+        "position": "WR16",
+        "best": 29,
+        "worst": 106,
+        "average": 47.3,
+        "selected": "NO",
+        "adp": 45
+    },
+
+
+    {
+        "rank": 46,
+        "name": "Darren Sproles (NO/7)",
+        "position": "RB22",
+        "best": 19,
+        "worst": 84,
+        "average": 46.4,
+        "selected": "NO",
+        "adp": 46
+    },
+    {
+        "rank": 47,
+        "name": "Hakeem Nicks (NYG/9)",
+        "position": "WR17",
+        "best": 32,
+        "worst": 81,
+        "average": 50.1,
+        "selected": "NO",
+        "adp": 49
+    },
+
+    {
+        "rank": 49,
+        "name": "Jason Witten (DAL/11)",
+        "position": "TE3",
+        "best": 14,
+        "worst": 94,
+        "average": 53,
+        "selected": "NO",
+        "adp": 52
+    },
+
+
+
+
+
+
+
+    {
+        "rank": 56,
+        "name": "Robert Griffin III (WAS/5)",
+        "position": "QB8",
+        "best": 32,
+        "worst": 107,
+        "average": 58.5,
+        "selected": "NO",
+        "adp": 64
+    },
+    {
+        "rank": 57,
+        "name": "Steve Smith (CAR/4)",
+        "position": "WR24",
+        "best": 43,
+        "worst": 84,
+        "average": 58,
+        "selected": "NO",
+        "adp": 67
+    },
+    {
+        "rank": 58,
+        "name": "Tony Gonzalez (ATL/6)",
+        "position": "TE4",
+        "best": 11,
+        "worst": 100,
+        "average": 58.8,
+        "selected": "NO",
+        "adp": 60
+    },
+    {
+        "rank": 59,
+        "name": "Eric Decker (DEN/9)",
+        "position": "WR23",
+        "best": 33,
+        "worst": 103,
+        "average": 57.8,
+        "selected": "NO",
+        "adp": 56
+    },
+    {
+        "rank": 60,
+        "name": "Colin Kaepernick (SF/9)",
+        "position": "QB9",
+        "best": 33,
+        "worst": 118,
+        "average": 62.2,
+        "selected": "NO",
+        "adp": 54
+    },
+
+
+    {
+        "rank": 63,
+        "name": "Vernon Davis (SF/9)",
+        "position": "TE5",
+        "best": 35,
+        "worst": 122,
+        "average": 63.4,
+        "selected": "NO",
+        "adp": 63
+    },
+
+    {
+        "rank": 65,
+        "name": "Russell Wilson (SEA/12)",
+        "position": "QB10",
+        "best": 29,
+        "worst": 106,
+        "average": 65.2,
+        "selected": "NO",
+        "adp": 68
+    },
+    {
+        "rank": 66,
+        "name": "Ahmad Bradshaw (IND/8)",
+        "position": "RB25",
+        "best": 24,
+        "worst": 109,
+        "average": 65.1,
+        "selected": "NO",
+        "adp": 68
+    },
+    {
+        "rank": 67,
+        "name": "Tony Romo (DAL/11)",
+        "position": "QB12",
+        "best": 39,
+        "worst": 109,
+        "average": 69.1,
+        "selected": "NO",
+        "adp": 73
+    },
+
+    {
+        "rank": 69,
+        "name": "James Jones (GB/4)",
+        "position": "WR27",
+        "best": 43,
+        "worst": 98,
+        "average": 68.4,
+        "selected": "NO",
+        "adp": 69
+    },
+    {
+        "rank": 70,
+        "name": "Cecil Shorts (JAC/9)",
+        "position": "WR26",
+        "best": 45,
+        "worst": 104,
+        "average": 67.4,
+        "selected": "NO",
+        "adp": 75
+    },
+
+    {
+        "rank": 72,
+        "name": "Daryl Richardson (STL/11)",
+        "position": "RB29",
+        "best": 33,
+        "worst": 127,
+        "average": 71.2,
+        "selected": "NO",
+        "adp": 81
+    },
+
+    {
+        "rank": 74,
+        "name": "Christopher Ivory (NYJ/10)",
+        "position": "RB26",
+        "best": 30,
+        "worst": 127,
+        "average": 65.7,
+        "selected": "NO",
+        "adp": 72
+    },
+
+    {
+        "rank": 76,
+        "name": "Miles Austin (DAL/11)",
+        "position": "WR33",
+        "best": 50,
+        "worst": 117,
+        "average": 84,
+        "selected": "NO",
+        "adp": 87
+    },
+
+    {
+        "rank": 78,
+        "name": "Steve Johnson (BUF/12)",
+        "position": "WR29",
+        "best": 51,
+        "worst": 108,
+        "average": 76.7,
+        "selected": "NO",
+        "adp": 79
+    },
+    {
+        "rank": 79,
+        "name": "Rashard Mendenhall (ARI/9)",
+        "position": "RB31",
+        "best": 44,
+        "worst": 125,
+        "average": 74.6,
+        "selected": "NO",
+        "adp": 71
+    },
+    {
+        "rank": 80,
+        "name": "Greg Jennings (MIN/5)",
+        "position": "WR31",
+        "best": 55,
+        "worst": 125,
+        "average": 79.8,
+        "selected": "NO",
+        "adp": 82
+    },
+    {
+        "rank": 81,
+        "name": "DeAngelo Williams (CAR/4)",
+        "position": "RB33",
+        "best": 43,
+        "worst": 128,
+        "average": 83.1,
+        "selected": "NO",
+        "adp": 95
+    },
+    {
+        "rank": 82,
+        "name": "Mike Williams (TB/5)",
+        "position": "WR32",
+        "best": 50,
+        "worst": 149,
+        "average": 80.1,
+        "selected": "NO",
+        "adp": 85
+    },
+    {
+        "rank": 83,
+        "name": "Andre Brown (NYG/9)",
+        "position": "RB32",
+        "best": 45,
+        "worst": 126,
+        "average": 81.8,
+        "selected": "NO",
+        "adp": 89
+    },
+    {
+        "rank": 84,
+        "name": "BenJarvus Green-Ellis (CIN/12)",
+        "position": "RB34",
+        "best": 62,
+        "worst": 110,
+        "average": 85.8,
+        "selected": "NO",
+        "adp": 83
+    },
+    {
+        "rank": 85,
+        "name": "Mark Ingram (NO/7)",
+        "position": "RB35",
+        "best": 33,
+        "worst": 125,
+        "average": 88.1,
+        "selected": "NO",
+        "adp": 93
+    },
+    {
+        "rank": 86,
+        "name": "Josh Gordon (CLE/10)",
+        "position": "WR34",
+        "best": 46,
+        "worst": 148,
+        "average": 88.9,
+        "selected": "NO",
+        "adp": 98
+    },
+    {
+        "rank": 87,
+        "name": "Greg Olsen (CAR/4)",
+        "position": "TE6",
+        "best": 49,
+        "worst": 137,
+        "average": 88.1,
+        "selected": "NO",
+        "adp": 91
+    },
+    {
+        "rank": 88,
+        "name": "Anquan Boldin (SF/9)",
+        "position": "WR36",
+        "best": 58,
+        "worst": 139,
+        "average": 92.5,
+        "selected": "NO",
+        "adp": 80
+    },
+    {
+        "rank": 89,
+        "name": "Kenny Britt (TEN/8)",
+        "position": "WR35",
+        "best": 41,
+        "worst": 142,
+        "average": 91.4,
+        "selected": "NO",
+        "adp": 94
+    },
+
+    {
+        "rank": 90,
+        "name": "Kyle Rudolph (MIN/5)",
+        "position": "TE7",
+        "best": 51,
+        "worst": 145,
+        "average": 94.7,
+        "selected": "NO",
+        "adp": 84
+    },
+    {
+        "rank": 91,
+        "name": "Lance Moore (NO/7)",
+        "position": "WR37",
+        "best": 53,
+        "worst": 136,
+        "average": 93.5,
+        "selected": "NO",
+        "adp": 97
+    },
+    {
+        "rank": 92,
+        "name": "Eli Manning (NYG/9)",
+        "position": "QB13",
+        "best": 59,
+        "worst": 130,
+        "average": 96.6,
+        "selected": "NO",
+        "adp": 96
+    },
+
+    {
+        "rank": 94,
+        "name": "Tavon Austin (STL/11)",
+        "position": "WR38",
+        "best": 57,
+        "worst": 152,
+        "average": 94,
+        "selected": "NO",
+        "adp": 76
+    },
+    {
+        "rank": 95,
+        "name": "Jermichael Finley (GB/4)",
+        "position": "TE9",
+        "best": 53,
+        "worst": 153,
+        "average": 103.8,
+        "selected": "NO",
+        "adp": 88
+    },
+    {
+        "rank": 96,
+        "name": "Jared Cook (STL/11)",
+        "position": "TE8",
+        "best": 56,
+        "worst": 162,
+        "average": 102.4,
+        "selected": "NO",
+        "adp": 99
+    },
+    {
+        "rank": 97,
+        "name": "Bernard Pierce (BAL/8)",
+        "position": "RB38",
+        "best": 61,
+        "worst": 139,
+        "average": 102.2,
+        "selected": "NO",
+        "adp": 125
+    },
+    {
+        "rank": 98,
+        "name": "Michael Vick (PHI/12)",
+        "position": "QB14",
+        "best": 39,
+        "worst": 208,
+        "average": 113.2,
+        "selected": "NO",
+        "adp": 107
+    },
+    {
+        "rank": 99,
+        "name": "Owen Daniels (HOU/8)",
+        "position": "TE10",
+        "best": 62,
+        "worst": 166,
+        "average": 106.8,
+        "selected": "NO",
+        "adp": 100
+    },
+    {
+        "rank": 100,
+        "name": "Chris Givens (STL/11)",
+        "position": "WR40",
+        "best": 42,
+        "worst": 165,
+        "average": 108.7,
+        "selected": "NO",
+        "adp": 104
+    },
+    {
+        "rank": 101,
+        "name": "Golden Tate (SEA/12)",
+        "position": "WR39",
+        "best": 57,
+        "worst": 177,
+        "average": 108.9,
+        "selected": "NO",
+        "adp": 105
+    },
+    {
+        "rank": 102,
+        "name": "Bryce Brown (PHI/12)",
+        "position": "RB39",
+        "best": 71,
+        "worst": 170,
+        "average": 109.4,
+        "selected": "NO",
+        "adp":116
+    },
+    {
+        "rank": 103,
+        "name": "Antonio Gates (SD/8)",
+        "position": "TE11",
+        "best": 70,
+        "worst": 197,
+        "average": 112.9,
+        "selected": "NO",
+        "adp": 90
+    },
+    {
+        "rank": 104,
+        "name": "Fred Jackson (BUF/12)",
+        "position": "RB42",
+        "best": 83,
+        "worst": 176,
+        "average": 111.8,
+        "selected": "NO",
+        "adp": 124
+    },
+    {
+        "rank": 105,
+        "name": "Emmanuel Sanders (PIT/5)",
+        "position": "WR41",
+        "best": 73,
+        "worst": 186,
+        "average": 111.2,
+        "selected": "NO",
+        "adp": 110
+    },
+    {
+        "rank": 106,
+        "name": "Pierre Thomas (NO/7)",
+        "position": "RB43",
+        "best": 82,
+        "worst": 171,
+        "average": 113.7,
+        "selected": "NO",
+        "adp": 158
+    },
+    {
+        "rank": 107,
+        "name": "Vick Ballard (IND/8)",
+        "position": "RB41",
+        "best": 53,
+        "worst": 171,
+        "average": 111.6,
+        "selected": "NO",
+        "adp": 108
+    },
+
+    {
+        "rank": 109,
+        "name": "Ronnie Hillman (DEN/9)",
+        "position": "RB37",
+        "best": 61,
+        "worst": 175,
+        "average": 101.8,
+        "selected": "NO",
+        "adp": 115
+    },
+    {
+        "rank": 110,
+        "name": "Sidney Rice (SEA/12)",
+        "position": "WR44",
+        "best": 77,
+        "worst": 176,
+        "average": 117,
+        "selected": "NO",
+        "adp": 106
+    },
+    {
+        "rank": 111,
+        "name": "Ben Roethlisberger (PIT/5)",
+        "position": "QB15",
+        "best": 69,
+        "worst": 196,
+        "average": 117.2,
+        "selected": "NO",
+        "adp": 127
+    },
+    {
+        "rank": 112,
+        "name": "Danny Woodhead (SD/8)",
+        "position": "RB44",
+        "best": 79,
+        "worst": 194,
+        "average": 115.1,
+        "selected": "NO",
+        "adp": 141
+    },
+    {
+        "rank": 113,
+        "name": "Vincent Brown (SD/8)",
+        "position": "WR43",
+        "best": 80,
+        "worst": 191,
+        "average": 117.9,
+        "selected": "NO",
+        "adp": 122
+    },
+
+    {
+        "rank": 115,
+        "name": "Justin Blackmon (JAC/9)",
+        "position": "WR47",
+        "best": 74,
+        "worst": 167,
+        "average": 121.2,
+        "selected": "NO",
+        "adp": 128
+    },
+    {
+        "rank": 116,
+        "name": "DeAndre Hopkins (HOU/8)",
+        "position": "WR46",
+        "best": 87,
+        "worst": 166,
+        "average": 121.1,
+        "selected": "NO",
+        "adp": 118
+    },
+    {
+        "rank": 117,
+        "name": "Andy Dalton (CIN/12)",
+        "position": "QB16",
+        "best": 60,
+        "worst": 168,
+        "average": 119.9,
+        "selected": "NO",
+        "adp": 111
+    },
+    {
+        "rank": 118,
+        "name": "Denarius Moore (OAK/7)",
+        "position": "WR45",
+        "best": 59,
+        "worst": 165,
+        "average": 115.5,
+        "selected": "NO",
+        "adp": 109
+    },
+
+    {
+        "rank": 120,
+        "name": "Martellus Bennett (CHI/8)",
+        "position": "TE13",
+        "best": 87,
+        "worst": 162,
+        "average": 121.5,
+        "selected": "NO",
+        "adp": 120
+    },
+    {
+        "rank": 121,
+        "name": "Kenbrell Thompkins (NE/10)",
+        "position": "WR53",
+        "best": 62,
+        "worst": 225,
+        "average": 129.3,
+        "selected": "NO",
+        "adp": 163
+    },
+
+    {
+        "rank": 123,
+        "name": "Brandon Myers (NYG/9)",
+        "position": "TE14",
+        "best": 82,
+        "worst": 180,
+        "average": 124.9,
+        "selected": "NO",
+        "adp": 114
+    },
+
+    {
+        "rank": 124,
+        "name": "Jay Cutler (CHI/8)",
+        "position": "QB17",
+        "best": 69,
+        "worst": 194,
+        "average": 129.9,
+        "selected": "NO",
+        "adp": 134
+    },
+    {
+        "rank": 125,
+        "name": "Kendall Wright (TEN/8)",
+        "position": "WR49",
+        "best": 84,
+        "worst": 182,
+        "average": 129,
+        "selected": "NO",
+        "adp": 162
+    },
+    {
+        "rank": 126,
+        "name": "Shonn Greene (TEN/8)",
+        "position": "RB46",
+        "best": 88,
+        "worst": 183,
+        "average": 135.6,
+        "selected": "NO",
+        "adp": 173
+    },
+    {
+        "rank": 127,
+        "name": "Jonathan Stewart (CAR/4)",
+        "position": "RB45",
+        "best": 72,
+        "worst": 184,
+        "average": 116,
+        "selected": "NO",
+        "adp": 121
+    },
+    {
+        "rank": 128,
+        "name": "Jonathan Dwyer (PIT/5)",
+        "position": "RB50",
+        "best": 84,
+        "worst": 197,
+        "average": 131.4,
+        "selected": "NO",
+        "adp": 175
+    },
+    {
+        "rank": 129,
+        "name": "Rueben Randle (NYG/9)",
+        "position": "WR51",
+        "best": 89,
+        "worst": 178,
+        "average": 133.8,
+        "selected": "NO",
+        "adp": 144
+    },
+    {
+        "rank": 130,
+        "name": "Ryan Broyles (DET/9)",
+        "position": "WR50",
+        "best": 91,
+        "worst": 186,
+        "average": 129.7,
+        "selected": "NO",
+        "adp": 140
+    },
+    {
+        "rank": 131,
+        "name": "Fred Davis (WAS/5)",
+        "position": "TE15",
+        "best": 63,
+        "worst": 197,
+        "average": 134.3,
+        "selected": "NO",
+        "adp": 142
+    },
+    {
+        "rank": 132,
+        "name": "Carson Palmer (ARI/9)",
+        "position": "QB19",
+        "best": 77,
+        "worst": 189,
+        "average": 135.3,
+        "selected": "NO",
+        "adp": 132
+    },
+    {
+        "rank": 133,
+        "name": "Brian Hartline (MIA/6)",
+        "position": "WR52",
+        "best": 80,
+        "worst": 184,
+        "average": 135.6,
+        "selected": "NO",
+        "adp": 155
+    },
+    {
+        "rank": 134,
+        "name": "Josh Freeman (TB/5)",
+        "position": "QB18",
+        "best": 88,
+        "worst": 201,
+        "average": 134.4,
+        "selected": "NO",
+        "adp": 156
+    },
+    {
+        "rank": 135,
+        "name": "Isaiah Pead (STL/11)",
+        "position": "RB47",
+        "best": 89,
+        "worst": 190,
+        "average": 129.2,
+        "selected": "NO",
+        "adp": 146
+    },
+    {
+        "rank": 136,
+        "name": "Sam Bradford (STL/11)",
+        "position": "QB20",
+        "best": 90,
+        "worst": 199,
+        "average": 138.4,
+        "selected": "NO",
+        "adp": 147
+    },
+    {
+        "rank": 137,
+        "name": "Joe Flacco (BAL/8)",
+        "position": "QB21",
+        "best": 94,
+        "worst": 193,
+        "average": 137.5,
+        "selected": "NO",
+        "adp": 133
+    },
+    {
+        "rank": 138,
+        "name": "Jacquizz Rodgers (ATL/6)",
+        "position": "RB49",
+        "best": 93,
+        "worst": 226,
+        "average": 136.7,
+        "selected": "NO",
+        "adp": 150
+    },
+    {
+        "rank": 139,
+        "name": "Brandon Pettigrew (DET/9)",
+        "position": "TE16",
+        "best": 64,
+        "worst": 196,
+        "average": 140.9,
+        "selected": "NO",
+        "adp": 135
+    },
+
+    {
+        "rank": 140,
+        "name": "Bilal Powell (NYJ/10)",
+        "position": "RB51",
+        "best": 66,
+        "worst": 201,
+        "average": 139.4,
+        "selected": "NO",
+        "adp": 180
+    },
+    {
+        "rank": 141,
+        "name": "Mikel Leshoure (DET/9)",
+        "position": "RB48",
+        "best": 68,
+        "worst": 255,
+        "average": 127.9,
+        "selected": "NO",
+        "adp": 131
+    },
+    {
+        "rank": 142,
+        "name": "Michael Bush (CHI/8)",
+        "position": "RB52",
+        "best": 99,
+        "worst": 193,
+        "average": 141.1,
+        "selected": "NO",
+        "adp": 169
+    },
+    {
+        "rank": 143,
+        "name": "Seattle Seahawks (12) DEF",
+        "position": "DST1",
+        "best": 89,
+        "worst": 194,
+        "average": 138.9,
+        "selected": "NO",
+        "adp": 86
+    },
+
+
+
+    {
+        "rank": 145,
+        "name": "Matt Schaub (HOU/8)",
+        "position": "QB22",
+        "best": 104,
+        "worst": 206,
+        "average": 147.1,
+        "selected": "NO",
+        "adp": 137
+    },
+    {
+        "rank": 146,
+        "name": "Knowshon Moreno (DEN/9)",
+        "position": "RB57",
+        "best": 77,
+        "worst": 244,
+        "average": 155.3,
+        "selected": "NO",
+        "adp": 216
+    },
+
+    {
+        "rank": 148,
+        "name": "Malcom Floyd (SD/8)",
+        "position": "WR55",
+        "best": 97,
+        "worst": 189,
+        "average": 149.2,
+        "selected": "NO",
+        "adp": 165
+    },
+
+    {
+        "rank": 149,
+        "name": "Isaac Redman (PIT/5)",
+        "position": "RB56",
+        "best": 57,
+        "worst": 261,
+        "average": 147.1,
+        "selected": "NO",
+        "adp": 181
+    },
+    {
+        "rank": 150,
+        "name": "Greg Little (CLE/10)",
+        "position": "WR56",
+        "best": 108,
+        "worst": 185,
+        "average": 148.4,
+        "selected": "NO",
+        "adp": 186
+    },
+    {
+        "rank": 151,
+        "name": "Johnathan Franklin (GB/4)",
+        "position": "RB53",
+        "best": 88,
+        "worst": 237,
+        "average": 141.2,
+        "selected": "NO",
+        "adp": 149
+    },
+    {
+        "rank": 152,
+        "name": "San Francisco 49ers (9) DEF",
+        "position": "DST2",
+        "best": 94,
+        "worst": 193,
+        "average": 151.9,
+        "selected": "NO",
+        "adp": 92
+    },
+    {
+        "rank": 153,
+        "name": "Philip Rivers (SD/8)",
+        "position": "QB23",
+        "best": 100,
+        "worst": 199,
+        "average": 148.7,
+        "selected": "NO",
+        "adp": 157
+    },
+    {
+        "rank": 154,
+        "name": "Darrius Heyward-Bey (IND/8)",
+        "position": "WR59",
+        "best": 119,
+        "worst": 191,
+        "average": 157.1,
+        "selected": "NO",
+        "adp": 160
+    },
+    {
+        "rank": 155,
+        "name": "Daniel Thomas (MIA/6)",
+        "position": "RB55",
+        "best": 100,
+        "worst": 232,
+        "average": 152.1,
+        "selected": "NO",
+        "adp": 198
+    },
+    {
+        "rank": 156,
+        "name": "Brandon LaFell (CAR/4)",
+        "position": "WR58",
+        "best": 109,
+        "worst": 225,
+        "average": 154.8,
+        "selected": "NO",
+        "adp": 193
+    },
+    {
+        "rank": 157,
+        "name": "Ryan Tannehill (MIA/6)",
+        "position": "QB24",
+        "best": 119,
+        "worst": 197,
+        "average": 158.4,
+        "selected": "NO",
+        "adp": 176
+    },
+    {
+        "rank": 158,
+        "name": "Zach Sudfeld (NE/10)",
+        "position": "TE18",
+        "best": 80,
+        "worst": 245,
+        "average": 148.3,
+        "selected": "NO",
+        "adp": 170
+    },
+    {
+        "rank": 159,
+        "name": "Aaron Dobson (NE/10)",
+        "position": "WR57",
+        "best": 97,
+        "worst": 219,
+        "average": 151.9,
+        "selected": "NO",
+        "adp": 153
+    },
+    {
+        "rank": 160,
+        "name": "Alex Smith (KC/10)",
+        "position": "QB25",
+        "best": 97,
+        "worst": 215,
+        "average": 154.9,
+        "selected": "NO",
+        "adp": 161
+    },
+    {
+        "rank": 161,
+        "name": "Mohamed Sanu (CIN/12)",
+        "position": "WR61",
+        "best": 94,
+        "worst": 232,
+        "average": 162.6,
+        "selected": "NO",
+        "adp": 184
+    },
+    {
+        "rank": 162,
+        "name": "Jermaine Gresham (CIN/12)",
+        "position": "TE17",
+        "best": 112,
+        "worst": 205,
+        "average": 159.5,
+        "selected": "NO",
+        "adp": 152
+    },
+    {
+        "rank": 163,
+        "name": "Andre Roberts (ARI/9)",
+        "position": "WR62",
+        "best": 114,
+        "worst": 195,
+        "average": 162.1,
+        "selected": "NO",
+        "adp": 207
+    },
+
+    {
+        "rank": 164,
+        "name": "Roy Helu (WAS/5)",
+        "position": "RB60",
+        "best": 98,
+        "worst": 206,
+        "average": 154.7,
+        "selected": "NO",
+        "adp": 211
+    },
+    {
+        "rank": 165,
+        "name": "Chicago Bears (8) DEF",
+        "position": "DST3",
+        "best": 113,
+        "worst": 196,
+        "average": 162.2,
+        "selected": "NO",
+        "adp": 102
+    },
+    {
+        "rank": 166,
+        "name": "Houston Texans (8) DEF",
+        "position": "DST4",
+        "best": 105,
+        "worst": 195,
+        "average": 162.1,
+        "selected": "NO",
+        "adp": 101
+    },
+    {
+        "rank": 167,
+        "name": "Kendall Hunter (SF/9)",
+        "position": "RB62",
+        "best": 117,
+        "worst": 208,
+        "average": 166,
+        "selected": "NO",
+        "adp": 264
+    },
+    {
+        "rank": 168,
+        "name": "Christine Michael (SEA/12)",
+        "position": "RB66",
+        "best": 114,
+        "worst": 207,
+        "average": 162.8,
+        "selected": "NO",
+        "adp": 221
+    },
+    {
+        "rank": 169,
+        "name": "Cincinnati Bengals (12) DEF",
+        "position": "DST5",
+        "best": 113,
+        "worst": 200,
+        "average": 165.6,
+        "selected": "NO",
+        "adp": 117
+    },
+    {
+        "rank": 170,
+        "name": "Rod Streater (OAK/7)",
+        "position": "WR60",
+        "best": 110,
+        "worst": 223,
+        "average": 163.7,
+        "selected": "NO",
+        "adp": 229
+    },
+
+    {
+        "rank": 172,
+        "name": "Tyler Eifert (CIN/12)",
+        "position": "TE20",
+        "best": 95,
+        "worst": 237,
+        "average": 163.2,
+        "selected": "NO",
+        "adp": 164
+    },
+    {
+        "rank": 173,
+        "name": "Brandon Weeden (CLE/10)",
+        "position": "QB26",
+        "best": 110,
+        "worst": 249,
+        "average": 167.3,
+        "selected": "NO",
+        "adp": 231
+    },
+    {
+        "rank": 174,
+        "name": "Robert Housler (ARI/9)",
+        "position": "TE19",
+        "best": 81,
+        "worst": 221,
+        "average": 157.9,
+        "selected": "NO",
+        "adp": 204
+    },
+    {
+        "rank": 175,
+        "name": "Marcel Reece (OAK/7)",
+        "position": "RB59",
+        "best": 80,
+        "worst": 199,
+        "average": 163.4,
+        "selected": "NO",
+        "adp": 222
+    },
+    {
+        "rank": 176,
+        "name": "Denver Broncos (9) DEF",
+        "position": "DST6",
+        "best": 117,
+        "worst": 197,
+        "average": 165.8,
+        "selected": "NO",
+        "adp": 119
+    },
+    {
+        "rank": 177,
+        "name": "Coby Fleener (IND/8)",
+        "position": "TE21",
+        "best": 103,
+        "worst": 204,
+        "average": 163.9,
+        "selected": "NO",
+        "adp": 166
+    },
+    {
+        "rank": 178,
+        "name": "Santonio Holmes (NYJ/10)",
+        "position": "WR64",
+        "best": 131,
+        "worst": 239,
+        "average": 171.4,
+        "selected": "NO",
+        "adp": 239
+    },
+    {
+        "rank": 179,
+        "name": "LaMichael James (SF/9)",
+        "position": "RB63",
+        "best": 103,
+        "worst": 246,
+        "average": 169.4,
+        "selected": "NO",
+        "adp": 167
+    },
+    {
+        "rank": 180,
+        "name": "Jeremy Kerley (NYJ/10)",
+        "position": "WR63",
+        "best": 121,
+        "worst": 221,
+        "average": 167.8,
+        "selected": "NO",
+        "adp": 263
+    },
+    {
+        "rank": 181,
+        "name": "Ryan Williams (ARI/9)",
+        "position": "RB64",
+        "best": 113,
+        "worst": 211,
+        "average": 161.6,
+        "selected": "NO",
+        "adp": 244
+    },
+    {
+        "rank": 182,
+        "name": "Jacoby Jones (BAL/8)",
+        "position": "WR65",
+        "best": 131,
+        "worst": 215,
+        "average": 175.6,
+        "selected": "NO",
+        "adp": 183
+    },
+    {
+        "rank": 183,
+        "name": "Dwayne Allen (IND/8)",
+        "position": "TE22",
+        "best": 120,
+        "worst": 199,
+        "average": 172.2,
+        "selected": "NO",
+        "adp": 197
+    },
+    {
+        "rank": 184,
+        "name": "New England Patriots (10) DEF",
+        "position": "DST7",
+        "best": 124,
+        "worst": 202,
+        "average": 174.1,
+        "selected": "NO",
+        "adp": 126
+    },
+    {
+        "rank": 185,
+        "name": "Mike Tolbert (CAR/4)",
+        "position": "RB67",
+        "best": 119,
+        "worst": 212,
+        "average": 171.7,
+        "selected": "NO",
+        "adp": 285
+    },
+    {
+        "rank": 186,
+        "name": "Robert Woods (BUF/12)",
+        "position": "WR67",
+        "best": 126,
+        "worst": 236,
+        "average": 176.5,
+        "selected": "NO",
+        "adp": 226
+    },
+    {
+        "rank": 187,
+        "name": "Stephen Hill (NYJ/10)",
+        "position": "WR68",
+        "best": 100,
+        "worst": 223,
+        "average": 171.5,
+        "selected": "NO",
+        "adp": 203
+    },
+    {
+        "rank": 188,
+        "name": "Julian Edelman (NE/10)",
+        "position": "WR66",
+        "best": 116,
+        "worst": 264,
+        "average": 170.5,
+        "selected": "NO",
+        "adp": 214
+    },
+    {
+        "rank": 189,
+        "name": "Joseph Randle (DAL/11)",
+        "position": "RB65",
+        "best": 105,
+        "worst": 291,
+        "average": 171.8,
+        "selected": "NO",
+        "adp": 209
+    },
+    {
+        "rank": 190,
+        "name": "E.J. Manuel (BUF/12)",
+        "position": "QB27",
+        "best": 115,
+        "worst": 288,
+        "average": 178.9,
+        "selected": "NO",
+        "adp": 188
+    },
+    {
+        "rank": 191,
+        "name": "Ed Dickson (BAL/8)",
+        "position": "TE23",
+        "best": 131,
+        "worst": 232,
+        "average": 171.1,
+        "selected": "NO",
+        "adp": 227
+    },
+    {
+        "rank": 192,
+        "name": "Nate Burleson (DET/9)",
+        "position": "WR71",
+        "best": 108,
+        "worst": 222,
+        "average": 175,
+        "selected": "NO",
+        "adp": 218
+    },
+
+    {
+        "rank": 194,
+        "name": "DuJuan Harris (GB/4)",
+        "position": "RB61",
+        "best": 97,
+        "worst": 230,
+        "average": 156.9,
+        "selected": "NO",
+        "adp": 225
+    },
+    {
+        "rank": 195,
+        "name": "Brian Quick (STL/11)",
+        "position": "WR72",
+        "best": 146,
+        "worst": 272,
+        "average": 182.4,
+        "selected": "NO",
+        "adp": 208
+    },
+    {
+        "rank": 196,
+        "name": "Robert Turbin (SEA/12)",
+        "position": "RB68",
+        "best": 127,
+        "worst": 268,
+        "average": 174.5,
+        "selected": "NO",
+        "adp": 248
+    },
+
+    {
+        "rank": 198,
+        "name": "Markus Wheaton (PIT/5)",
+        "position": "WR72",
+        "best": 31,
+        "worst": 259,
+        "average": 162.5,
+        "selected": "NO",
+        "adp": 151
+    },
+    {
+        "rank": 199,
+        "name": "Jake Locker (TEN/8)",
+        "position": "QB28",
+        "best": 115,
+        "worst": 288,
+        "average": 178.9,
+        "selected": "NO",
+        "adp": 188
+    },
+    {
+        "rank": 200,
+        "name": "Heath Miller (PIT/5)",
+        "position": "TE24",
+        "best": 110,
+        "worst": 278,
+        "average": 182.4,
+        "selected": "NO",
+        "adp": 223
+    },
+    {
+        "rank": 201,
+        "name": "Lance Dunbar (DAL/11)",
+        "position": "RB69",
+        "best": 136,
+        "worst": 243,
+        "average": 170.8,
+        "selected": "NO",
+        "adp": 283
+    },
+    {
+        "rank": 203,
+        "name": "St. Louis Rams (11) DEF",
+        "position": "DST8",
+        "best": 141,
+        "worst": 229,
+        "average": 179.7,
+        "selected": "NO",
+        "adp": 171
+    },
+    {
+        "rank": 206,
+        "name": "Baltimore Ravens (8)",
+        "position": "DST9",
+        "best": 137,
+        "worst": 217,
+        "average": 184.4,
+        "selected": "NO",
+        "adp": 138
+    },
+    {
+        "rank": 209,
+        "name": "Arizona Cardinals (9) DEF",
+        "position": "DST10",
+        "best": 160,
+        "worst": 230,
+        "average": 182.2,
+        "selected": "NO",
+        "adp": 174
+    },
+    {
+        "rank": 219,
+        "name": "Pittsburgh Steelers (5) DEF",
+        "position": "DST11",
+        "best": 131,
+        "worst": 267,
+        "average": 184.1,
+        "selected": "NO",
+        "adp": 143
+    },
+    {
+        "rank": 224,
+        "name": "Green Bay Packers (4) DEF",
+        "position": "DST12",
+        "best": 149,
+        "worst": 236,
+        "average": 187.5,
+        "selected": "NO",
+        "adp": 154
+    },
+    {
+        "rank": 221,
+        "name": "Phil Dawson (SF/9) Kick",
+        "position": "K1",
+        "best": 116,
+        "worst": 242,
+        "average": 185.9,
+        "selected": "NO",
+        "adp": 148
+    },
+    {
+        "rank": 223,
+        "name": "Stephen Gostkowski (NE/10) Kick",
+        "position": "K2",
+        "best": 138,
+        "worst": 223,
+        "average": 188,
+        "selected": "NO",
+        "adp": 112
+    },
+    {
+        "rank": 232,
+        "name": "Blair Walsh (MIN/5) Kick",
+        "position": "K3",
+        "best": 130,
+        "worst": 228,
+        "average": 188.5,
+        "selected": "NO",
+        "adp": 130
+    },
+
+    {
+        "rank": 237,
+        "name": "Matt Prater (DEN/9) Kick",
+        "position": "K4",
+        "best": 153,
+        "worst": 239,
+        "average": 188.1,
+        "selected": "NO",
+        "adp": 145
+    },
+    {
+        "rank": 246,
+        "name": "Justin Tucker (BAL/8) Kick",
+        "position": "K5",
+        "best": 153,
+        "worst": 241,
+        "average": 193.1,
+        "selected": "NO",
+        "adp": 159
+    },
+    {
+        "rank": 251,
+        "name": "Sebastian Janikowski (OAK/7) Kick",
+        "position": "K6",
+        "best": 158,
+        "worst": 284,
+        "average": 200.1,
+        "selected": "NO",
+        "adp": 168
+    },
+    {
+        "rank": 252,
+        "name": "Matt Bryant (ATL/6) Kick",
+        "position": "K7",
+        "best": 153,
+        "worst": 239,
+        "average": 188.1,
+        "selected": "NO",
+        "adp": 145
+    },
+    {
+        "rank": 253,
+        "name": "Dan Bailey (DAL/11) Kick",
+        "position": "K8",
+        "best": 190,
+        "worst": 255,
+        "average": 210.1,
+        "selected": "NO",
+        "adp": 191
+    },
+    {
+        "rank": 254,
+        "name": "Garrett Hartley (NO/7) Kick",
+        "position": "K9",
+        "best": 188,
+        "worst": 280,
+        "average": 216,
+        "selected": "NO",
+        "adp": 196
+    },
+    {
+        "rank": 255,
+        "name": "Randy Bullock (HOU/8) Kick",
+        "position": "K8",
+        "best": 156,
+        "worst": 278,
+        "average": 196.1,
+        "selected": "NO",
+        "adp": 199
+    },
+    {
+        "rank": 265,
+        "name": "David Akers (DET/9) Kick",
+        "position": "K10",
+        "best": 159,
+        "worst": 276,
+        "average": 200.4,
+        "selected": "NO",
+        "adp": 187
+    },
+    {
+        "rank": 266,
+        "name": "Josh Brown (NYG/9) Kick",
+        "position": "K11",
+        "best": 157,
+        "worst": 203,
+        "average": 178,
+        "selected": "NO",
+        "adp": 207
+    },
+    {
+        "rank": 304,
+        "name": "Kai Forbath (WAS/5) Kick",
+        "position": "K13",
+        "best": 192,
+        "worst": 280,
+        "average": 222,
+        "selected": "NO",
+        "adp": 255
+    },
+    {
+        "rank": 305,
+        "name": "Greg Zuerlein (STL/11) Kick",
+        "position": "K14",
+        "best": 192,
+        "worst": 272,
+        "average": 220,
+        "selected": "NO",
+        "adp": 194
+    },
+    {
+        "rank": 306,
+        "name": "Ryan Succop (KC/12) Kick",
+        "position": "K15",
+        "best": 194,
+        "worst": 273,
+        "average": 228,
+        "selected": "NO",
+        "adp": 235
+    },
+    {
+        "rank": 307,
+        "name": "Alex Henery (PHI/12) Kick",
+        "position": "K16",
+        "best": 194,
+        "worst": 273,
+        "average": 228,
+        "selected": "NO",
+        "adp": 235
+    }
+
+
+]
+
